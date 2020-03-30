@@ -28,4 +28,8 @@ public class NotesStorageMock implements NotesStorage {
         notes.clear();
 
     }
+
+    public int  getSize() {
+        return notes.size();
+    }
 }
