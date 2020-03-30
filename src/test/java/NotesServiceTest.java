@@ -1,8 +1,7 @@
-import org.junit.jupiter.api.BeforeAll;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import sun.print.resources.serviceui;
 
 import static org.assertj.core.api.Assertions.*;
 
@@ -22,6 +21,7 @@ public class NotesServiceTest {
     }
 
     @Test
+    @DisplayName("When added 1 time")
     public void noteServiceAdd(){
 
         serviceImpl.add(Note.of("Ja", 5));
@@ -30,6 +30,7 @@ public class NotesServiceTest {
     }
 
     @Test
+    @DisplayName("When added multiple times")
     void noteServiceAddMultipleTimes(){
 
         for(int i = 0; i<100; i++){
@@ -43,6 +44,7 @@ public class NotesServiceTest {
     }
 
     @Test
+    @DisplayName("Checking clear method")
     void noteServiceClearTest(){
 
         serviceImpl.add( Note.of("ja", 3));
@@ -54,6 +56,7 @@ public class NotesServiceTest {
 
     }
     @Test
+    @DisplayName("Average test for same values")
     void noteServiceAverageTest1(){
 
         serviceImpl.add(Note.of("K", 3));
@@ -65,6 +68,7 @@ public class NotesServiceTest {
     }
 
     @Test
+    @DisplayName("Average test for 2 different names")
     void noteServiceAverageTest2(){
 
         serviceImpl.add(Note.of("K", 3));
@@ -77,6 +81,7 @@ public class NotesServiceTest {
     }
 
     @Test
+    @DisplayName("Average test for different values")
     void noteServiceAverageTest3(){
 
         serviceImpl.add(Note.of("K", 3));
@@ -87,6 +92,7 @@ public class NotesServiceTest {
         assertThat(serviceImpl.averageOf("K")).isEqualTo((float)18/4);
 
     }
+
 
 
 
