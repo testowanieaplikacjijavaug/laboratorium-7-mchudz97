@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b5db4ea-92f2-4984-a040-51aa18c7d108" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NotesService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,22 +75,22 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="717" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1585555210717" />
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1585554778574">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1585558004010">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1585554778574" />
-    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1585554778574">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1585558004010">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1585554778574" />
-    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1585554778574">
+    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1585558004010">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1585554778574" />
-    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1585554778574">
+    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1585558004010">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1585554778574" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
     <state x="373" y="82" key="Maven.ArtifactSearchDialog" timestamp="1585552237733">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
