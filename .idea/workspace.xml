@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b5db4ea-92f2-4984-a040-51aa18c7d108" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/NoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NotesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NotesServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NotesStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NotesStorageImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Mocks/NotesStorageMock.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="275" />
+    <option name="myElementSize" value="294" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,6 +42,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager">
     <configuration name="NoteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -71,10 +78,14 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="451" y="87" key="#Project_Structure/0.0.1920.1030@0.0.1920.1030" timestamp="1585551983436" />
-    <state x="717" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1585555210717">
+    <state x="717" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1585560493073">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state x="717" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1585555210717" />
+    <state x="717" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1585560493073" />
+    <state x="665" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585559338483">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="665" y="337" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1030@0.0.1920.1030" timestamp="1585559338483" />
     <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1585559165742">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
