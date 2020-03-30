@@ -55,6 +55,7 @@ public class NotesServiceTest {
 
 
     }
+
     @Test
     @DisplayName("Average test for same values")
     void noteServiceAverageTest1(){

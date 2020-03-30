@@ -30,6 +30,9 @@ public class NotesStorageMock implements NotesStorage {
     }
 
     public int  getSize() {
+
         return notes.size();
+
     }
+
 }
