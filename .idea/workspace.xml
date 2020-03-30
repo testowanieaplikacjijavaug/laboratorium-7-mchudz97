@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b5db4ea-92f2-4984-a040-51aa18c7d108" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/NotesService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NotesServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/NotesStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NoteTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,28 +75,28 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="717" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1030@0.0.1920.1030" timestamp="1585555210717" />
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1585558004010">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom" timestamp="1585559165742">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
-    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1585558004010">
+    <state width="1864" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1030@0.0.1920.1030" timestamp="1585559165742" />
+    <state width="1864" height="258" key="GridCell.Tab.0.center" timestamp="1585559165742">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
-    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1585558004010">
+    <state width="1864" height="258" key="GridCell.Tab.0.center/0.0.1920.1030@0.0.1920.1030" timestamp="1585559165742" />
+    <state width="1864" height="258" key="GridCell.Tab.0.left" timestamp="1585559165742">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
-    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1585558004010">
+    <state width="1864" height="258" key="GridCell.Tab.0.left/0.0.1920.1030@0.0.1920.1030" timestamp="1585559165742" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right" timestamp="1585559165742">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
-    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1585558004010" />
+    <state width="1864" height="258" key="GridCell.Tab.0.right/0.0.1920.1030@0.0.1920.1030" timestamp="1585559165742" />
     <state x="373" y="82" key="Maven.ArtifactSearchDialog" timestamp="1585552237733">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="373" y="82" key="Maven.ArtifactSearchDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1585552237733" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Zad1Lab7$NoteTest.ic" NAME="NoteTest Coverage Results" MODIFIED="1585554778549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Zad1Lab7$NoteTest.ic" NAME="NoteTest Coverage Results" MODIFIED="1585559165716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

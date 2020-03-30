@@ -29,10 +29,18 @@ public class NoteTest {
     }
 
     @Test
-    @DisplayName("when note value is out of range")
+    @DisplayName("when note value too low")
     public void ofNoteTestExceptionInvalidNote(){
 
         assertThatThrownBy(() -> { Note.of("a", 0); }).isInstanceOf(IllegalArgumentException.class).
+                hasMessage("Niewłaściwa ocena");
+
+    }
+    @Test
+    @DisplayName("when note too big")
+    public void ofNoteTestExceptionInvalidNote2(){
+
+        assertThatThrownBy(() -> { Note.of("a", 10); }).isInstanceOf(IllegalArgumentException.class).
                 hasMessage("Niewłaściwa ocena");
 
     }
