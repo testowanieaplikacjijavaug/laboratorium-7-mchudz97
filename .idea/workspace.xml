@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b5db4ea-92f2-4984-a040-51aa18c7d108" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NotesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NotesServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NotesStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NotesStorageImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Mocks/NotesStorageMock.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NotesServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NotesStorageImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NotesStorageMock.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +73,10 @@
       <screen x="0" y="0" width="1920" height="1030" />
     </state>
     <state x="451" y="87" key="#Project_Structure/0.0.1920.1030@0.0.1920.1030" timestamp="1585551983436" />
+    <state x="409" y="49" width="1199" height="823" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585563287343">
+      <screen x="0" y="0" width="1920" height="1030" />
+    </state>
+    <state x="409" y="49" width="1199" height="823" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1585563287343" />
     <state x="717" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1585560493073">
       <screen x="0" y="0" width="1920" height="1030" />
     </state>

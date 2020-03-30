@@ -2,7 +2,7 @@ import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;
 import java.util.List;
 
-public class NotesStorageImpl implements NotesStorage {
+public class NotesStorageMock implements NotesStorage {
 
 
     private Multimap <String, Note> notes = ArrayListMultimap.create();
